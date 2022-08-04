@@ -1,0 +1,32 @@
+
+body {
+  background-color: #DFE8CC;
+}
+
+h1  {
+  color:#256D85;
+}
+
+h3  {
+  color:#73A9AD;
+}
+
+p {
+  color: #002B5B;
+}
+
+li {
+  color: #002B5B;
+}
+
+table {color: #002B5B;}
+
+hr {
+  background-color: none;
+  border-style: none;
+  border-top-style:dotted;
+  border-color: grey;
+  border-width: 5px;
+  height: 0px;
+  width: 8%;
+}
